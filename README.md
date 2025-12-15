@@ -75,8 +75,3 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
-3. **Generate plots**:
-```bash
-python training/plots/plot_smth.py
-```
